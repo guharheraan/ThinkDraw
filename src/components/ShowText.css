@@ -1,0 +1,36 @@
+/* 
+.btns{
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    gap: 1rem;
+}
+
+.btn{
+    border: 2px solid #FF1947;
+    width: 5rem;
+    height: 2rem;
+    border-radius: .9rem;
+    color: #FF1947;
+    font-weight: 500;
+}
+
+.btn:hover{
+    background-color: #FF1947;
+    color: #fff;
+}
+
+.linkBtn{
+    border: 2px solid #FF1947;
+    height: 2rem;
+    width: 6rem;
+    border-radius: .9rem;
+    color: #fff;
+    font-weight: 500;
+    background-color: #FF1947;
+}
+
+.linkBtn:hover{
+    background-color: transparent;
+    color: #FF1947;
+} */

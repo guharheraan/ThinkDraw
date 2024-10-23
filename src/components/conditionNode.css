@@ -1,0 +1,36 @@
+.conditionNode{
+    border: 2px solid #FF1947;
+     width: 6rem;
+     height: 6rem;
+     display: flex;
+     flex-direction: column;
+     justify-content: center;
+     align-items: center;
+    transform: rotate(45deg);
+}
+
+
+.conditionNode input{
+    margin-left: 5px;
+    margin-right: 5px;
+    width: 90%;
+    color: #FF1947;
+    border: none;
+    text-align: center;
+    text-transform: capitalize;
+    transform: rotate(-45deg);
+}
+
+.conditionNode input:focus{
+    outline: none;
+}
+
+.conditionNode button {
+    position: fixed;
+    top: -2rem;
+    left: -2rem;
+    color: #FF1947;
+    background: none;
+    border: none;
+    transform: rotate(-45deg);
+}

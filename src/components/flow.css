@@ -1,0 +1,21 @@
+/* .buttons{
+    border: 2px solid black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+    position: fixed;
+    left: 2%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.buttons button{
+    color: #FF1947;
+    background: none;
+    border: none;
+    font-size: 1.5rem;
+    padding: 5px;
+    cursor: pointer;
+} */

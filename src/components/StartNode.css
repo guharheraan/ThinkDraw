@@ -1,0 +1,33 @@
+.startNode{
+    border: 2px solid #FF1947;
+    width: 6rem;
+    height: 3.5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    padding: 5px;
+    
+}
+
+.startNode input{
+    margin-left: 5px;
+    margin-right: 5px;
+    width: 90%;
+    color: #FF1947;
+    border: none;
+    text-align: center;
+    text-transform: capitalize;
+}
+
+.startNode input:focus{
+    outline: none;
+}
+
+.startNode button {
+    position: fixed;
+    top: -2.5rem;
+    color: #FF1947;
+    background: none;
+    border: none;
+}
