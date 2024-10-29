@@ -2,7 +2,7 @@ import { useState, useEffect } from "react";
 import { useSelector } from "react-redux";
 import { PDFDownloadLink } from "@react-pdf/renderer";
 import PDFDocument from "./PDFDoc";
-import "./showText.css";
+import "./ShowText.css";
 import { X } from "lucide-react";
 
 function TextDisplay({ divId, onClose }) {
