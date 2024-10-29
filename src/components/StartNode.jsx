@@ -2,7 +2,7 @@ import { useCallback, useEffect, useState } from "react";
 import { Handle, Position } from "@xyflow/react";
 import { useDispatch, useSelector } from "react-redux";
 import { removeNode, updateNodeText } from "./store";
-import "./startNode.css";
+import "./StartNode.css";
 import { Trash2 } from "lucide-react";
 
 const StartNode = ({ id, data, isConnectable, selected, divId }) => {
